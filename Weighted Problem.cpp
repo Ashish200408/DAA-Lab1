@@ -7,7 +7,7 @@ struct Job{
 };
 
 bool compare(Job a, Job b){
-    return a.finish<b.finish;
+    return a.finish<b.finish; 
 }
 
 int main(){
