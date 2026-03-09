@@ -1,3 +1,4 @@
+//Knapsack using brute force
 #include <iostream>
 using namespace std;
 

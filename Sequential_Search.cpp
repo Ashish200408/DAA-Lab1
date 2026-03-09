@@ -1,3 +1,4 @@
+//Sequential search
 #include<iostream>
 using namespace std;
 
